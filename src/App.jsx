@@ -354,46 +354,7 @@ export default function Portfolio() {
         </div>
       </section>
 
-      {/* Advertisement Section */}
-
-<section className="py-12 px-6 bg-gray-100">
-
-  <div className="max-w-5xl mx-auto text-center">
-
-    <h2 className="text-3xl font-bold text-blue-700 mb-4">
-      Website Developed By MohammadAfan Ankalagi
-    </h2>
-
-    <p className="text-gray-600 text-lg mb-6">
-      Need a professional portfolio or business website?
-      Contact for modern responsive website development.
-    </p>
-
-    <div className="flex flex-wrap justify-center gap-4">
-
-      <a
-        href="mailto:yourmail@gmail.com"
-        className="bg-blue-600 text-white px-6 py-3 rounded-full hover:bg-blue-700"
-      >
-        Contact Me:
-        Phone: 8660467068, 
-        Intagram: @afananakalagi
-      </a>
-
-      <a
-        href="https://github.com/"
-        target="_blank"
-        className="border border-blue-600 text-blue-600 px-6 py-3 rounded-full hover:bg-blue-50"
-      >
-        GitHub
-      </a>
-
-    </div>
-
-  </div>
-
-</section>
-
+  
       {/* Footer */}
       <footer className="bg-gray-900 text-gray-300 py-8 text-center">
         <p>
